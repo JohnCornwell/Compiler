@@ -1,4 +1,4 @@
-CS 442 John Cornwell
+# CS 442 John Cornwell
 
 This compiler can:
 
@@ -40,3 +40,19 @@ This compiler can:
 -Print the words true and false, and read booleans (non-zero for true and 0 for false).
 -Variables must be declared before use.
 -Boolean functions and parameters.
+
+
+## Usage
+
+Use the provided build file to build the compiler.
+
+This compiler must be provided an input file, a listing file, and an optional output file. If an output file is not provided, the output will be printed to stdout. The resulting output will be an executable MIPS program. The listing file is simply a file that can be used to print the read program.
+
+Run the compiler with the following command
+
+```bash
+compiler <input file> <listing file> [output file]
+```
+
+# Author
+John Cornwell
