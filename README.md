@@ -35,11 +35,11 @@ This compiler can:
 - Use recursion.
 
 **Use Booleans**
-  - Boolean literals and variables.
-  - Boolean assignment.
-  - Print the words true and false, and read booleans (non-zero for true and 0 for false).
-  - Variables must be declared before use.
-  - Boolean functions and parameters.
+- Boolean literals and variables.
+- Boolean assignment.
+- Print the words true and false, and read booleans (non-zero for true and 0 for false).
+- Variables must be declared before use.
+- Boolean functions and parameters.
 
 
 ## Usage
